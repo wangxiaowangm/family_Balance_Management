@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam=" -encoding utf-8 -charset utf-8" author="true" classpath="lib/poi-ooxml-schemas-3.16-beta1.jar;lib/commons-collections4-4.1.jar;lib/dom4j-1.6.1-2.0.jar;lib/poi-excelant-3.16-beta1.jar;C:\Users\Administrator.USER-20180810KF\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Administrator.USER-20180810KF\.m2\repository\com\oracle\ojdbc6\11.2.0\ojdbc6-11.2.0.jar;lib/xmlbeans-2.6.0.jar;lib/poi-scratchpad-3.16-beta1.jar;target/test-classes;lib/poi-3.16-beta1.jar;lib/poi-ooxml-3.16-beta1.jar" destdir="doc" doctitle="家庭收支管理系统" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.iss.Client,com.iss.bean,com.iss.Server,com.iss.util" source="1.7" sourcepath="src/main/resources;src/test/java;src/main/java;src/test/resources" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
